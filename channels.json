@@ -60,7 +60,7 @@
     "desc": "English Commentary",
     "url": "https://allrounder-live6.pages.dev/channel/fox1",
     "tag": "live",
-    "enabled": true,
+    "enabled": false,
     "order": 5
   },
   {
