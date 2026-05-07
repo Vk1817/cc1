@@ -1,11 +1,11 @@
 [
   {
     "id": "ch1", 
-    "name": "Jiohotstar",
+    "name": "Fox Cricket",
     "desc": "iOS & Windows ",
-    "url": "https://allrounder-live6.pages.dev/channel/hotstar",
+    "url": "https://allrounder-live6.pages.dev/channel/fox1",
     "tag": "HD",
-    "enabled": false,
+    "enabled": true,
     "order": 1
   },
   {
