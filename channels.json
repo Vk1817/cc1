@@ -5,7 +5,7 @@
     "desc": "iOS & Windows ",
     "url": "https://allrounder-live6.pages.dev/channel/hotstar",
     "tag": "HD",
-    "enabled": true,
+    "enabled": false,
     "order": 1
   },
   {
@@ -24,7 +24,7 @@
     "desc": "English Commentary",
     "url": "https://starplay-cc.pages.dev/",
     "tag": "live",
-    "enabled": true,
+    "enabled": false,
     "order": 6
   },
     {
