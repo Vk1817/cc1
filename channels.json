@@ -67,10 +67,28 @@
     "id": "ch8",
     "name": "Star Sports Telugu",
     "desc": "Telugu Commentary",
-    "url": "https://ss1-tel.pages.dev/",
+    "url": "https://jiotvplus.dr-strange.workers.dev/?id=302123",
     "tag": "live",
-    "enabled": false,
+    "enabled": true,
     "order": 7
+  },
+  {
+    "id": "ch10",
+    "name": "Star Sports Tamil",
+    "desc": "Tamil Commentary",
+    "url": "https://jiotvplus.dr-strange.workers.dev/?id=302122",
+    "tag": "live",
+    "enabled": true,
+    "order": 9
+  },
+  {
+    "id": "ch11",
+    "name": "Star Sports Kannada",
+    "desc": "Kannada Commentary",
+    "url": "https://jiotvplus.dr-strange.workers.dev/?id=302118",
+    "tag": "live",
+    "enabled": true,
+    "order": 10
   },
   {
     "id": "ch9",
