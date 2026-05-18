@@ -3,7 +3,7 @@
     "id": "ch1", 
     "name": "Fox Cricket",
     "desc": "iOS & Windows ",
-    "url": "https://allrounder-live8.pages.dev/channel/fox1",
+    "url": "https://allrounder-live10.pages.dev/channel/fox1",
     "tag": "HD",
     "enabled": true,
     "order": 1
@@ -31,7 +31,7 @@
     "id": "ch14",
     "name": "Willow English",
     "desc": "English Commentary/ Use USA VPN",
-    "url": "https://allrounder-live9.pages.dev/channel/willow",
+    "url": "https://allrounder-live10.pages.dev/channel/willow",
     "tag": "live",
     "enabled": true,
     "order": 9
@@ -40,7 +40,7 @@
     "id": "ch5",
     "name": "Star Sports English",
     "desc": "English Commentary",
-    "url": "https://allrounder-live9.pages.dev/star/star-1",
+    "url": "https://allrounder-live10.pages.dev/star/star-1",
     "tag": "live",
     "enabled": true,
     "order": 3
@@ -49,7 +49,7 @@
     "id": "ch6",
     "name": "Sky Sports",
     "desc": "English Commentary",
-    "url": "https://allrounder-live9.pages.dev/channel/hub5",
+    "url": "https://allrounder-live10.pages.dev/channel/hub5",
     "tag": "live",
     "enabled": true,
     "order": 4
