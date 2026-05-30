@@ -40,7 +40,7 @@
     "id": "ch5",
     "name": "Star Sports English",
     "desc": "English Commentary",
-    "url": "https://allrounder-live11.pages.dev/star/star-1",
+    "url": "https://sportlink-starsport.pages.dev/player.html?id=ss1",
     "tag": "live",
     "enabled": true,
     "order": 3
@@ -67,7 +67,7 @@
     "id": "ch8",
     "name": "Star Sports Telugu",
     "desc": "Telugu Commentary",
-    "url": "https://jiotvplus.dr-strange.workers.dev/?id=302123",
+    "url": "https://sportlink-starsport.pages.dev/player.html?id=ss1tel",
     "tag": "live",
     "enabled": true,
     "order": 7
@@ -76,7 +76,7 @@
     "id": "ch10",
     "name": "Star Sports Tamil",
     "desc": "Tamil Commentary",
-    "url": "https://jiotvplus.dr-strange.workers.dev/?id=302122",
+    "url": "https://sportlink-starsport.pages.dev/player.html?id=ss1tam",
     "tag": "live",
     "enabled": true,
     "order": 9
@@ -85,7 +85,7 @@
     "id": "ch11",
     "name": "Star Sports Kannada",
     "desc": "Kannada Commentary",
-    "url": "https://jiotvplus.dr-strange.workers.dev/?id=302118",
+    "url": "https://sportlink-starsport.pages.dev/player.html?id=ss1kan",
     "tag": "live",
     "enabled": true,
     "order": 10
