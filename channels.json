@@ -3,7 +3,7 @@
     "id": "ch1", 
     "name": "Fox Cricket",
     "desc": "iOS & Windows ",
-    "url": "https://allrounder-live11.pages.dev/channel/fox1",
+    "url": "https://allrounder-live12.pages.dev/channel/fox1",
     "tag": "HD",
     "enabled": true,
     "order": 1
@@ -31,7 +31,7 @@
     "id": "ch14",
     "name": "Willow English",
     "desc": "English Commentary/ Use USA VPN",
-    "url": "https://allrounder-live11.pages.dev/channel/willow",
+    "url": "https://allrounder-live12.pages.dev/channel/willow",
     "tag": "live",
     "enabled": true,
     "order": 9
@@ -49,7 +49,7 @@
     "id": "ch6",
     "name": "Sky Sports",
     "desc": "English Commentary",
-    "url": "https://allrounder-live11.pages.dev/channel/hub5",
+    "url": "https://allrounder-live12.pages.dev/channel/hub5",
     "tag": "live",
     "enabled": true,
     "order": 4
@@ -58,7 +58,7 @@
     "id": "ch7",
     "name": "Fox Sports",
     "desc": "English Commentary",
-    "url": "https://allrounder-live9.pages.dev/channel/fox1",
+    "url": "https://allrounder-live12.pages.dev/channel/fox1",
     "tag": "live",
     "enabled": false,
     "order": 5
@@ -94,7 +94,7 @@
     "id": "ch9",
     "name": "Kayo",
     "desc": "Hindi",
-    "url": "https://allrounder-live11.pages.dev/channel/ptv",
+    "url": "https://allrounder-live12.pages.dev/channel/kayo-2",
     "tag": "HD",
     "enabled": true,
     "order": 2
